@@ -22,6 +22,13 @@ This Contact Management application is built using the MERN (MongoDB, Express.js
 - CSS: Styling the application.
 - Other libraries and packages as needed.
 
+  
+ ## Deployed Application
+
+You can access the deployed Contact Management Application using the following link:
+
+[Deployed link](https://contact-managmentadesh.netlify.app/)
+
 ## Getting Started
 
 To run the Contact Management Application locally, follow these steps:
